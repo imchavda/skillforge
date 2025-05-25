@@ -1,0 +1,15 @@
+LXC – 
+LinuX Containers (LXC) is an OS level virtualization method for running multiple isolated Linux systems (containers) on a single control host(LXC host)
+
+Docker - 
+A container system making use of LXC containers
+
+LXD - 
+You can run LXD on Ubuntu and spin up instances of RHEL, CentOS, SUSE, Debian, Ubuntu and just about any other linux too instantly.
+
+Docker VS LXD
+Docker specialized in deploying containers
+LXD specialized in deploying Linux VM
+
+Minor Technical note:
+installing LXD includes a command line program coincidentally named lxc.
